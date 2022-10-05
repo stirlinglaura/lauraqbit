@@ -1,4 +1,8 @@
-### Hi there 👋
+ ![imagen](https://user-images.githubusercontent.com/103264377/194041658-40a604ec-d852-4def-a73a-5310800c9d74.png)
+### Hi there 👋👋 my name is Laura
+- 🌱 I’m currently learning **Fullstack at Codecademy**
+
+- 👯 I’m looking to collaborate on great projects!
 
 <!--
 **lauraqbit/lauraqbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
